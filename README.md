@@ -65,4 +65,4 @@ mao_de_obra: R$ 7.00 por hora adicional
 ## Autor
 
 **Geovane Virmecati** — Consultor PO/Analytics, Fundador da Eixo Estratégico
-[GitHub](https://github.com/geovime1977) · [LinkedIn](https://linkedin.com/in/geovanevirmecati)
+[GitHub](https://github.com/geovime1977)
